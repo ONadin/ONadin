@@ -1,0 +1,4 @@
+- 👋 Hello, my name is Nadezhda
+- 👀 I am interested in everything related to working with data
+- 🌱 I am currently studying pandas and machine learning
+- 💞️ I want to learn how to do useful things. 
